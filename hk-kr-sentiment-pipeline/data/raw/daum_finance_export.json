@@ -1,0 +1,62 @@
+[
+  {
+    "source": "daum_finance",
+    "url": "https://m.finance.daum.net/quotes/A005930/talks",
+    "ticker": "005930.KS",
+    "exchange": "KR",
+    "company": "Samsung Electronics",
+    "page_title": "삼성전자: 193,500 ▼8,000 (-3.97%)",
+    "current_price": 193500,
+    "discussion_count": 74226,
+    "text": "삼성전자 매수 이유 3가지? 선 매수 유리; 삼성전자 연말 자사주 매수와 배당; 삼성전자 외국인 매수; 삼성전자 3분기 서프라이즈 실적 발표 매수 적기; 반도체주 대세 향후 4년간 호황; 삼성전자 브로드컴 반도체 수주 대형호재; 삼성전자 엔비디아 행사; 삼성전자 폭등은 공포 뒤에 와요",
+    "datetime": "2026-11-07T17:36:32Z"
+  },
+  {
+    "source": "daum_finance",
+    "url": "https://m.finance.daum.net/quotes/A000660/talks",
+    "ticker": "000660.KS",
+    "exchange": "KR",
+    "company": "SK Hynix",
+    "page_title": "SK하이닉스: 1,176,000 ▼88,000 (-6.96%)",
+    "current_price": 1176000,
+    "discussion_count": 90955,
+    "text": "HBM4 하이닉스 매출과 삼성전자 매출; 세력들 하이닉스 팔고 삼성전자 사는 이유; 주주환원 삼성전자가 훨씬 많이함; 판이 바뀌었다 삼성전자가 유리한 이유; 하이닉스 28만 최소한 간다; 삼성전자 18만 깨지고 하이닉스 100만원 지지여부; 하이닉스 주당순자산",
+    "datetime": "2026-11-07T17:37:02Z"
+  },
+  {
+    "source": "daum_finance",
+    "url": "https://m.finance.daum.net/quotes/A035420/talks",
+    "ticker": "035420.KS",
+    "exchange": "KR",
+    "company": "NAVER",
+    "page_title": "NAVER: 188,600 ▲3,700 (+2.00%)",
+    "current_price": 188600,
+    "discussion_count": 7301,
+    "text": "NAVER 2분기 영업이익 전분기 대비 감소 폭락 불가피; 네이버 구글 AI에 검색엔진 빼앗김 실적악화; 네이버 주가와 실적; 삼성전자 관련 게시물은 종목 필터링 대상",
+    "datetime": "2026-11-07T17:36:56Z"
+  },
+  {
+    "source": "daum_finance",
+    "url": "https://m.finance.daum.net/quotes/A035720/talks",
+    "ticker": "035720.KS",
+    "exchange": "KR",
+    "company": "Kakao",
+    "page_title": "카카오: 32,000 ▼200 (-0.62%)",
+    "current_price": 32000,
+    "discussion_count": 36851,
+    "text": "카카오를 이렇게 싸게 팔아도 되나요; 카카오 검찰측 항소 카카오 그룹 폭락 불가피; 카카오 2분기 순익 폭락; 카카오의 결점; 카카오 업; 삼성전자 관련 게시물은 종목 필터링 대상",
+    "datetime": "2026-11-07T17:36:44Z"
+  },
+  {
+    "source": "daum_finance",
+    "url": "https://m.finance.daum.net/quotes/A005380/talks",
+    "ticker": "005380.KS",
+    "exchange": "KR",
+    "company": "Hyundai Motor",
+    "page_title": "현대차: 281,000 ▼12,500 (-4.26%)",
+    "current_price": 281000,
+    "discussion_count": 23483,
+    "text": "현대차 하락 이유 3가지 실적 폭락 적정가; 현대차 2분기 영업이익 급감 폭락 불가피; 현대차 3분기 순익 급감 폭락 불가피; 현대차 아틀라스 힘으로 폭발하나; 삼성전자 관련 게시물은 종목 필터링 대상",
+    "datetime": "2026-11-07T17:36:51Z"
+  }
+]

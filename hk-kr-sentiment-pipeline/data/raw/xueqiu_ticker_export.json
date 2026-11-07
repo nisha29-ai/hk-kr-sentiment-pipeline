@@ -1,0 +1,28 @@
+[{
+  "postId": "415831918",
+  "tickerExtracted": "HK00700",
+  "tickerSource": "$腾讯控股(00700)$",
+  "tickersInPost": [
+    "HK00700"
+  ],
+  "postText": "$腾讯控股(00700)$ 腾讯Hy4 正式版落地后，已经看到不少人第一时间上手实测。正是因 Hy4 调用激增，腾讯立即给WorkBuddy 进行了十倍扩容。\n 另外我还看到一组数据，Hy4发布第二天就进了全球权威大模型评测平台 Artificial Analysis 的榜单，724 款模型里跻身前列，中国模型位列第二，仅次于 Ki...",
+  "postTextEn": null,
+  "publishedAt": "2026-11-06T03:07:53+00:00",
+  "source": "雪球",
+  "author": {
+    "userId": "1833845374",
+    "screenName": "牛股侦探",
+    "followerCount": 8284,
+    "isVerified": true,
+    "verificationLabel": "雪球星计划创作者"
+  },
+  "metrics": {
+    "likeCount": 32,
+    "commentCount": 37,
+    "retweetCount": 0,
+    "viewCount": 557406
+  },
+  "postUrl": "https://xueqiu.com/1833845374/415831918",
+  "scrapedAt": "2026-11-07T17:10:31.002932+00:00",
+  "mode": "ticker_posts"
+}]
